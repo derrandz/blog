@@ -3,6 +3,8 @@ remote_theme: chesterhow/tale
 permalink:    /:year-:month-:day/:title
 paginate:     5
 
+url: "https://www.introfun.com"
+
 # Build settings
 markdown:       kramdown
 include:
