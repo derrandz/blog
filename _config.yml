@@ -4,6 +4,8 @@ permalink:    /:year-:month-:day/:title
 paginate:     5
 
 url: "https://www.introfun.com"
+name: "Introspective Fun"
+title: "Intro. Fun"
 
 # Build settings
 markdown:       kramdown
